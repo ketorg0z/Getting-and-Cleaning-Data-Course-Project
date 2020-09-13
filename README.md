@@ -8,6 +8,5 @@ My script ([run_analysis.R](https://github.com/ketorg0z/Getting-and-Cleaning-Dat
 *tidy.txt* - tidy dataset (result).
 *ru_analysis.R* - my script, that cleans raw data into *tidy.txt*.
 
-Raw Data - [UCI HAR Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip), a full
-description is available at the [site](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+Raw Data - [UCI HAR Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip), a full description is available at the [site](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 ---
