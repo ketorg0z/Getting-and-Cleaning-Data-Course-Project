@@ -1,7 +1,7 @@
 ---
-#Course Project for Getting And Cleaning Data Course
+# Course Project for Getting And Cleaning Data Course
 
-###Explanation
+### Explanation
 My script ([run_analysis.R](https://github.com/ketorg0z/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R)) assigns each data file to variables, merges train and test sets in one data set, extracts only the measurements on the mean and standard deviation by the regular expressions, replaces codes with descriptive names of activities, labels the data set with descriptive variable names and creates a tidy data set named *tidy.txt* in this repo.
 
 *CodeBook.md* - a code book that describes the variables, the data and transformations or work that was performed to clean up the data.
