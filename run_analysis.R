@@ -1,3 +1,5 @@
+install.packages("reshape2")
+library(reshape2)
 
 #Reading info from row files
 trainX <- read.table("./UCI HAR Dataset/train/X_train.txt")
